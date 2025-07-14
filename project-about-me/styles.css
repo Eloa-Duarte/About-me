@@ -1,0 +1,77 @@
+body {
+    background-color: #d0ccdb;
+    font-family: Arial, sans-serif;
+    color: #c0244b;
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+#cabeçalho1 {
+    color: #6b21f5;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    color: #1c6ba3;
+    font-size: 24px;
+    border-bottom: 2px solid #a02996;
+    padding-bottom: 5px;
+}
+
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+
+img {
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+.hobbyespecial {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #c23d5a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
